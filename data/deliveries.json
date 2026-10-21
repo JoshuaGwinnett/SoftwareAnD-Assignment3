@@ -1,0 +1,42 @@
+[
+  {
+    "delivery_id": "D0009",
+    "request_id": "R0007",
+    "quote_id": "Q0008",
+    "assigned_staff_id": "U0002",
+    "status": "COMPLETED",
+    "history": [
+      {
+        "status": "PICKED_UP",
+        "note": "Package collected from pickup address.",
+        "staff_id": "U0002",
+        "timestamp": "2026-10-20T14:31:13"
+      },
+      {
+        "status": "IN_TRANSIT",
+        "note": "Package is on the way.",
+        "staff_id": "U0002",
+        "timestamp": "2026-10-20T14:31:26"
+      },
+      {
+        "status": "DELIVERED",
+        "note": "Package delivered to dropoff address.",
+        "staff_id": "U0002",
+        "timestamp": "2026-10-20T14:31:37"
+      },
+      {
+        "status": "COMPLETED",
+        "note": "Order completed.",
+        "staff_id": "U0002",
+        "timestamp": "2026-10-20T14:31:37"
+      }
+    ],
+    "payment": {
+      "payment_id": "PAY0010",
+      "amount": 83.0,
+      "method": "card",
+      "delivery_id": "D0009",
+      "paid": true
+    }
+  }
+]

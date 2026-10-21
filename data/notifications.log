@@ -1,0 +1,18 @@
+[NOTIFY -> U0004] Your delivery request R0007 has been logged.
+[NOTIFY -> U0004] A quote of $83.00 is ready for request R0007.
+[NOTIFY -> U0002] You have been allocated delivery D0009.
+[NOTIFY -> U0004] Delivery staff assigned for request R0007.
+[NOTIFY] Delivery D0009 status changed to PICKED_UP
+[NOTIFY] Delivery D0009 status changed to IN_TRANSIT
+[NOTIFY] Delivery D0009 status changed to DELIVERED
+[NOTIFY] Delivery D0009 status changed to COMPLETED
+[NOTIFY -> R0007] Delivery D0009 is complete.
+[NOTIFY -> U0004] Your delivery request R0006 has been logged.
+[NOTIFY -> U0004] A quote of $20.00 is ready for request R0006.
+[NOTIFY -> U0002] You have been allocated delivery D0008.
+[NOTIFY -> U0004] Delivery staff assigned for request R0006.
+[NOTIFY] Delivery D0008 status changed to PICKED_UP
+[NOTIFY] Delivery D0008 status changed to IN_TRANSIT
+[NOTIFY] Delivery D0008 status changed to DELIVERED
+[NOTIFY] Delivery D0008 status changed to COMPLETED
+[NOTIFY -> R0006] Delivery D0008 is complete.

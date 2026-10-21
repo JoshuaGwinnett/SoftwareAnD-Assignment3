@@ -1,0 +1,18 @@
+[
+  {
+    "user_id": "U0004",
+    "name": "Dave electronics",
+    "email": "dave@ell.com",
+    "phone": "0430210293",
+    "role": "Customer",
+    "address": "92 reee desda"
+  },
+  {
+    "user_id": "U0005",
+    "name": "yolo",
+    "email": "ioi",
+    "phone": "uiou",
+    "role": "Customer",
+    "address": "jiob"
+  }
+]

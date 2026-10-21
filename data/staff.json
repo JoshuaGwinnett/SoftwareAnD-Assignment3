@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "U0001",
+    "name": "Olivia Office",
+    "email": "olivia@yowd.example",
+    "phone": "0400111111",
+    "role": "OfficeStaff",
+    "availability": "AVAILABLE"
+  },
+  {
+    "user_id": "U0002",
+    "name": "Dave Driver",
+    "email": "dave@yowd.example",
+    "phone": "0400222222",
+    "role": "DeliveryStaff",
+    "availability": "AVAILABLE"
+  },
+  {
+    "user_id": "U0003",
+    "name": "Mia Manager",
+    "email": "mia@yowd.example",
+    "phone": "0400333333",
+    "role": "Manager",
+    "availability": "AVAILABLE"
+  }
+]
