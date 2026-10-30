@@ -2,12 +2,13 @@
 
 Python 3 implementation of the "Your Order, We Deliver" (YOWD) Delivery
 Management System, built directly from the group's finalised Assignment 2
-Object Design (DispatchFront facade, RequestController / AllocationController /
-DeliveryController / ReportingController, the User/Staff/Customer hierarchy,
-and the Observer / Strategy design patterns).
+Object Design.
 
-## Requirements
-- Python 3.9+ (standard library only — no third-party packages needed)
+## Platform
+ 
+- Developed & tested in a GitHub Codespace (Ubuntu Linux)
+- Python3.14.2 , standard library only (no third-party packages)
+- Editor: Visual Studio Code (web)
 
 ## Running it
 
@@ -73,9 +74,6 @@ wasn't practical):
 8. Track Delivery Status — `DeliveryController.track_status`
 9. Generate Operational Statistics — `ReportingController.generate_statistics_report`
 
-Real payment-gateway processing is intentionally out of scope (per the
+Payment-gateway processing is intentionally out of scope (per the
 Assignment 1 requirement) — `Payment.process()` simply records that payment
 was collected.
-
-See `Assignment3_Implementation_Changes.docx` for the short list of changes
-made to the Assignment 2 design during implementation, with justifications.
